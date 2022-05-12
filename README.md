@@ -1,6 +1,6 @@
 ## 👋 Hello! Larissa here 😊!
 
-### <img src="https://media.giphy.com/media/YwPgvDTevmBzdFxLKL/giphy.gif" width="200" height="200">
+### <img src="https://media.giphy.com/media/YwPgvDTevmBzdFxLKL/giphy.gif" width="400" height="400">
 
 - 🔭 I’m currently working on Software Development
 
