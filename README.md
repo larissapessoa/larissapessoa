@@ -1,4 +1,4 @@
-## 👋 Hello! Larissa here!👋
+## 👋 Hello! Larissa here 😊!
 
 ### <img src="https://media.giphy.com/media/YwPgvDTevmBzdFxLKL/giphy.gif" width="200" height="200">
 
@@ -31,4 +31,4 @@
 </div>
   
  
-I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+
